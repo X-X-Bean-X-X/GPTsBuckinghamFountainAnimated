@@ -1,0 +1,439 @@
+{
+  "asset": "GPT's Buckingham Fountain, Animated",
+  "author": "X_Bean_X",
+  "publishedVersion": "1.0.0",
+  "publishedPackageSHA256": "c75e279a207fa8012abf127be8d37b51a42f999ca1172d03439ed2aefec800e0",
+  "authoringFiles": [
+    {
+      "path": "Evidence/BFIMSiteAudit20261023_v18-11fe881e5f2f419ab23a03e295612a31.json",
+      "bytes": 195502,
+      "sha256": "a42e93c86b818587205c3dd6e94967e7c9123f9a2c9edaad1cea8889d8600f6f"
+    },
+    {
+      "path": "Evidence/BFIMSiteAudit20261023_v18-5250f07ed5c145279d7cbb528be08402.json",
+      "bytes": 193763,
+      "sha256": "b8efb49a51594a4f887889df299c18a9b4aceeb77434fede8a87c5d71960f5cc"
+    },
+    {
+      "path": "Evidence/BFIMSiteAudit20261023_v18-75080efec440428bbc9b017eb25d9370.json",
+      "bytes": 194209,
+      "sha256": "b6feb44a98c7f2f7c29c03be58b5cf8437397d3df3c5f7fe83763f7492f905a2"
+    },
+    {
+      "path": "Evidence/BFIMSiteAudit20261023_v18-83cf021525e94b50892b91b1244fafbc.json",
+      "bytes": 196802,
+      "sha256": "44ac4c99015ef77ec174ab108a36f867bd42bc3f2c007ebce15304867bbce711"
+    },
+    {
+      "path": "Evidence/BFIMSiteAudit20261023_v18-9e0ef9cbc5e9408f8f4152a7fcd334b6.json",
+      "bytes": 194191,
+      "sha256": "a13caeabb5dfca25a60bb59bf18b594331394ad26c6053b149f75ac381f085d6"
+    },
+    {
+      "path": "Evidence/BFIMSiteAudit20261023_v18-a9c748e3f28f4bdeb37da0649fe6568e.json",
+      "bytes": 195512,
+      "sha256": "24fa6e42233c9f9cbf89b835a9750cf0bb549320d336637c0ffc61394071ed16"
+    },
+    {
+      "path": "Evidence/map-dark-pavers-site.json",
+      "bytes": 84701,
+      "sha256": "e40b1ade1c579dfb2f30e938f310913bdb7e4ce5276da89e7d822086d09c08d4"
+    },
+    {
+      "path": "Evidence/site-v18-before.json",
+      "bytes": 82865,
+      "sha256": "59aa72ea9a5f87793f77bc47525951c7c852a51488be3ea05536b772320bacd9"
+    },
+    {
+      "path": "Evidence/site-v18-path-after.json",
+      "bytes": 83627,
+      "sha256": "970d5f6450e5783599cc2ad9323ec089dfb2b53fb5df76a6b40f3a92b00641dd"
+    },
+    {
+      "path": "Evidence/site-v18-reloaded.json",
+      "bytes": 83060,
+      "sha256": "a0243dd8ac3eddc3d04bfe729a8ff907e21083fa4a2d05884926b1bd9fa68860"
+    },
+    {
+      "path": "Evidence/site-v18c-current.json",
+      "bytes": 83078,
+      "sha256": "b9bd905a1a0a238b393d397b8bf4188c2d0d9bc6531a2153f70ac0e30c885234"
+    },
+    {
+      "path": "Scripts/BFIMAuthorLanterns20261023_v19.cs",
+      "bytes": 3604,
+      "sha256": "93da5e712a7aae17392d35f52bc33bc2de617c5e103b7e661132b11bc7f03156"
+    },
+    {
+      "path": "Scripts/BFIMAuthorLanterns20261023_v19b.cs",
+      "bytes": 4042,
+      "sha256": "f2ea1fe3ab69344e053914e1c7e84147b923e8d52f32e699fa0058256610136b"
+    },
+    {
+      "path": "Scripts/BFIMAuthorMapPavers20261023_v1.cs",
+      "bytes": 2558,
+      "sha256": "df9a1d0553eef5711ef3927a7c33cedba9099493628ee436ec36830d91d2cae0"
+    },
+    {
+      "path": "Scripts/BFIMAuthorMapPavers20261023_v2.cs",
+      "bytes": 2613,
+      "sha256": "417a5ade9fa0c9f6f5b6517697c942e0f64e1a6720472c716d75245836a4c967"
+    },
+    {
+      "path": "Scripts/BFIMAuthorPerimeter20261023_v18.cs",
+      "bytes": 5141,
+      "sha256": "b597682368b8f5ff4e6c5220aa7b92e35b4ea7476d6ad63ee1abbbaa875f2a03"
+    },
+    {
+      "path": "Scripts/BFIMCreateDetails20261023_v5.cs",
+      "bytes": 6194,
+      "sha256": "24ed5f6f9023a9a8ddbb8d37e45ea78131fffc1f2b604571408ba6f840deb8ee"
+    },
+    {
+      "path": "Scripts/BFIMCreateDetails20261023_v6.cs",
+      "bytes": 6194,
+      "sha256": "ceb7c994ee217107c8f2603a82e4da12d35de85572564791ada52d55122c78c9"
+    },
+    {
+      "path": "Scripts/BFIMCreatePrototype20261022_v1.cs",
+      "bytes": 6141,
+      "sha256": "438cf64a316d31eab22cb2cbb313898243cd15123bde68787f1acc0b2a9f7332"
+    },
+    {
+      "path": "Scripts/BFIMCreatePrototype20261022_v2.cs",
+      "bytes": 6509,
+      "sha256": "1292ca8346688386fca8971d47fc017da5913379cb5007a1aef1f894a0169aaf"
+    },
+    {
+      "path": "Scripts/BFIMImportDetails20261023_v10.cs",
+      "bytes": 2665,
+      "sha256": "84539bae0169ffbef288c1ac2942f0dfd629eb9b09b3ec7bef7a2bc133b77ec9"
+    },
+    {
+      "path": "Scripts/BFIMImportDetails20261023_v17.cs",
+      "bytes": 2684,
+      "sha256": "b4f6e167787323db643e66aef8d2ebe9c92677b8286a1a6ff6866c06006a9246"
+    },
+    {
+      "path": "Scripts/BFIMImportDetails20261023_v5.cs",
+      "bytes": 2665,
+      "sha256": "e6e50bbf4f9d7b402f386d1676777b7b104debfd094d015dbe6e78fd8724935e"
+    },
+    {
+      "path": "Scripts/BFIMImportDetails20261023_v6.cs",
+      "bytes": 2665,
+      "sha256": "6c47b708a1ca6c4dd16d7ff4a66d417b00a0cb0bb5ef8e38e81c9ef9af0e0df9"
+    },
+    {
+      "path": "Scripts/BFIMImportDetails20261023_v7.cs",
+      "bytes": 2665,
+      "sha256": "7842350135346d2763ed77be5338fba8f6d165879b5364200e312e4e677ca093"
+    },
+    {
+      "path": "Scripts/BFIMImportDetails20261023_v8.cs",
+      "bytes": 2665,
+      "sha256": "9294377a5438e2e843c8678655f626a9fcd8f874b69d6f0fd3859f6ee1c7127c"
+    },
+    {
+      "path": "Scripts/BFIMImportDetails20261023_v9.cs",
+      "bytes": 2665,
+      "sha256": "1eaa0f0e6d7592a8faa7b8ce24c6f94905ed4653dfcac0620a4053783bb2f2d5"
+    },
+    {
+      "path": "Scripts/BFIMImportLanterns20261023_v19.cs",
+      "bytes": 2698,
+      "sha256": "18f0a4957b934478d8c9ca792aca30d8d687f2d44e26fa1cbdc981b16626af08"
+    },
+    {
+      "path": "Scripts/BFIMImportLanterns20261023_v19b.cs",
+      "bytes": 3117,
+      "sha256": "2d6024eb475a5df6cf68a1bbdfb66f7b02ec2f6e518da40357b653689417e925"
+    },
+    {
+      "path": "Scripts/BFIMImportMapPavers20261023_v1.cs",
+      "bytes": 3112,
+      "sha256": "0da6c3df3102a4dcbd3326af5066138522306cffc48941091d1fae0c1b2b418f"
+    },
+    {
+      "path": "Scripts/BFIMImportOuterJets20261023_v14.cs",
+      "bytes": 2695,
+      "sha256": "e25c164a1d35273e171eabf3cb04778f1f87ce5a5a9bc44080504a41811c224a"
+    },
+    {
+      "path": "Scripts/BFIMImportPerimeter20261023_v18.cs",
+      "bytes": 2696,
+      "sha256": "3d6d59ac053edaa10bf9a1ae170ecddb242f649a1b5005fd86723cf60c7c7466"
+    },
+    {
+      "path": "Scripts/BFIMImportPerimeter20261023_v18b.cs",
+      "bytes": 2703,
+      "sha256": "502e5dd90044955387528d47d672a94612e7c173b053840d9f9691055e708d23"
+    },
+    {
+      "path": "Scripts/BFIMImportPerimeter20261023_v18c.cs",
+      "bytes": 2705,
+      "sha256": "f8fd7a8d3f6072d4bcd9c594ff7c4842225eb341cca27c4b1a4a9ed3ee980d14"
+    },
+    {
+      "path": "Scripts/BFIMImportPerimeter20261023_v18d.cs",
+      "bytes": 2707,
+      "sha256": "c95dd4e2f08e9681655ceaf82782c6d9c0507666cc68bda4b9abe332b80a3746"
+    },
+    {
+      "path": "Scripts/BFIMImportPerimeter20261023_v18e.cs",
+      "bytes": 2707,
+      "sha256": "02356269ac8d0e440efff2495433cb2aae9d6bab6399abe2c48bf8b647649234"
+    },
+    {
+      "path": "Scripts/BFIMImportTall20261023_v1.cs",
+      "bytes": 2647,
+      "sha256": "e2b1baefcf431bc24414736bc6664e1086f796672ef4d0fdcfa0fb1dec548be0"
+    },
+    {
+      "path": "Scripts/BFIMNativeFountainSettings20261023_v1.cs",
+      "bytes": 1012,
+      "sha256": "5019591e08e841a3a2dde3a9a27615018c6bba9b002145cd7e9b5479f24348eb"
+    },
+    {
+      "path": "Scripts/assemble_native_v10_candidate.py",
+      "bytes": 4173,
+      "sha256": "fc603a040bb37f67dfce4a9e28993804dd8765d9e0236a5653e60041947741af"
+    },
+    {
+      "path": "Scripts/assemble_native_v11.py",
+      "bytes": 2619,
+      "sha256": "2c4c72d70e2b8ebe6b0be39241a56a7bb240f6c3a441f5e8fdb908cc6b4c7781"
+    },
+    {
+      "path": "Scripts/assemble_native_v12.py",
+      "bytes": 2650,
+      "sha256": "23f6587c5893a8d30351665e1a95de8c464809f5ee63b6de2f3ecbac87e1be77"
+    },
+    {
+      "path": "Scripts/assemble_native_v13.py",
+      "bytes": 2674,
+      "sha256": "ac7b2b36b52cf844d258562b251fa43b938f4177c65e94f67c329cf753b02277"
+    },
+    {
+      "path": "Scripts/assemble_native_v14.py",
+      "bytes": 2720,
+      "sha256": "6f867b24cc53141f6c65aa72bcd35ac3aa1044349d93022c2f40ca451598ae97"
+    },
+    {
+      "path": "Scripts/assemble_native_v15.py",
+      "bytes": 2744,
+      "sha256": "366f5ace05cc89e3ec89b8f75769dbc610f284cecd787e26d369e124953c484e"
+    },
+    {
+      "path": "Scripts/assemble_native_v16.py",
+      "bytes": 2904,
+      "sha256": "4380bf42c0abe2e3a03b75acd7e102c4fa807efa35dd0f287d1f872b8065d7a8"
+    },
+    {
+      "path": "Scripts/assemble_native_v17.py",
+      "bytes": 2838,
+      "sha256": "3f6ec6bb2172e1e2a6e89a0310452dfd36085439f6751eada399214ca9789aea"
+    },
+    {
+      "path": "Scripts/assemble_native_v18.py",
+      "bytes": 2759,
+      "sha256": "579ff45e8b9302cfe807c9b59985d66500dc64629a44c1ad773bbfb9f7b4096c"
+    },
+    {
+      "path": "Scripts/assemble_native_v18c.py",
+      "bytes": 2496,
+      "sha256": "bf4613024c9ffaddf8f8281a7df004e530576eb5daf1ce00f36ffb605a7ba5ab"
+    },
+    {
+      "path": "Scripts/assemble_native_v18e.py",
+      "bytes": 3916,
+      "sha256": "69b974ea75e742a4a9ee7ccdf851fa7d81d34a179a5dd9c7041d4af77466e740"
+    },
+    {
+      "path": "Scripts/assemble_native_v19.py",
+      "bytes": 2911,
+      "sha256": "4055142f5b4af1fa45a71b3263c65a6ac5cadb7f5d5254aec94e21bb6d27937e"
+    },
+    {
+      "path": "Scripts/assemble_native_v3.py",
+      "bytes": 2749,
+      "sha256": "8b15144c741f43eb369fc847da5cd7fa45831874f2da93559f42a0ff621c8789"
+    },
+    {
+      "path": "Scripts/assemble_native_v4.py",
+      "bytes": 2846,
+      "sha256": "2d19e8e9976b554d1920149442dd1e8e58af738a313a95770edd23fa187352f2"
+    },
+    {
+      "path": "Scripts/assemble_native_v5_candidate.py",
+      "bytes": 4169,
+      "sha256": "e668e6eb711a076d43f54eb2d1bf27c90f78c8b0353bac6f16fc0d4d8a7c9c63"
+    },
+    {
+      "path": "Scripts/build_details_v005.py",
+      "bytes": 12598,
+      "sha256": "53a28c470dddf4570cde0bcf1aab612d7e6b72210d0f51bd6a9934ab4bf8d83b"
+    },
+    {
+      "path": "Scripts/build_details_v006.py",
+      "bytes": 12669,
+      "sha256": "c17b5b8352c80844a1f1fcb5029937f2cd8ab87efe1c7e1c0af0a46e0688131c"
+    },
+    {
+      "path": "Scripts/build_details_v007.py",
+      "bytes": 12797,
+      "sha256": "bae253d594a52590cba25005017b375e3e4218e09caf59b07d8b13b9f6a9bbc8"
+    },
+    {
+      "path": "Scripts/build_details_v008.py",
+      "bytes": 12769,
+      "sha256": "db8d9e37c2489cd315b1aa1cad03c31b19d29ff2479c13381889660fa80741f4"
+    },
+    {
+      "path": "Scripts/build_details_v009.py",
+      "bytes": 12644,
+      "sha256": "3e17b0ed148d3213f1de3b1997e9848ac2cc00e83d10c9da9e8bc747f9bbbd73"
+    },
+    {
+      "path": "Scripts/build_details_v010.py",
+      "bytes": 13595,
+      "sha256": "7747f8825afca0cffc896cbcb354e41e8fa04af011d263dcf25ad59aef522383"
+    },
+    {
+      "path": "Scripts/build_details_v017.py",
+      "bytes": 13916,
+      "sha256": "a2667b4ba77547cdd826a4dd93a59a8e2b13406b1b7946b36fe7f7f3942b5f1f"
+    },
+    {
+      "path": "Scripts/build_fountain.py",
+      "bytes": 21906,
+      "sha256": "d2cf708813bd41e51d67c9c80d9ede5e71479d69be9292f1a357af73a6696710"
+    },
+    {
+      "path": "Scripts/build_lanterns_v019.py",
+      "bytes": 6914,
+      "sha256": "9006c433587e54011de3da08d72c9ae32f5806dee9f4afaf47e885c29cddb9cf"
+    },
+    {
+      "path": "Scripts/build_map_pavers_v1.py",
+      "bytes": 6882,
+      "sha256": "22bc91506ab1e61cc4f901d12785db9f4e7d4e5711efbf07146e95d113349387"
+    },
+    {
+      "path": "Scripts/build_outer_jets_v014.py",
+      "bytes": 4684,
+      "sha256": "8567028af31e2454b7185aa84f7a2ceacac9352f2658c40131b5cef10608ebcd"
+    },
+    {
+      "path": "Scripts/build_perimeter_v018.py",
+      "bytes": 6789,
+      "sha256": "3690c4fdf312053e2ddbab4ab685b1e5aa41c593552f68b35398a9d99ac35298"
+    },
+    {
+      "path": "Scripts/build_perimeter_v018d.py",
+      "bytes": 6869,
+      "sha256": "f1a538b9f269639402985998c299a2ca0ceb9099ddc70cfcabdd1b2dda7601f9"
+    },
+    {
+      "path": "Scripts/build_perimeter_v018e.py",
+      "bytes": 6795,
+      "sha256": "c98493c626a17024aaa73e00e91e0c187e61447764f96a47b777e3249a034d8a"
+    },
+    {
+      "path": "Scripts/export_acm_native_v1.py",
+      "bytes": 4091,
+      "sha256": "72529e5cc3e561bb3c2d5f36423c48311659adecf2f101f8f24d4d9405097176"
+    },
+    {
+      "path": "Scripts/prepare_building_reload.py",
+      "bytes": 723,
+      "sha256": "7212d9aa4559d18b08dea25608ce9e9303f0c7dfff7a9facbe0a533492373bf9"
+    },
+    {
+      "path": "Scripts/prepare_taller_native.py",
+      "bytes": 12283,
+      "sha256": "eaad726d52af2987f131ccd35d38fb808e5a78e6551172f583748be7cbb79616"
+    },
+    {
+      "path": "Scripts/repair_native_export_v004.py",
+      "bytes": 3773,
+      "sha256": "ca5fc136f2677895293c9ffa425353846bc7645bfe519991eb514b3917880f58"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_Animated_v018_perimeter.blend",
+      "bytes": 6880602,
+      "sha256": "2cd3bbcc94c31e3696effb0d5600296dc62922c1da87bc52e8774a565d16aa71"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_Animated_v019_lanterns.blend",
+      "bytes": 6868078,
+      "sha256": "e118e6a0febd6b5e6a6113e71521849cb4584e92f0ce6dd71b7f74c9d5d2ff8e"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_Map_Only_Pavers.blend",
+      "bytes": 6789423,
+      "sha256": "303d153641d12cb37eaab4535537fe7107a4537191f4a6d5fc2be6f5334962a1"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_export_v004.blend",
+      "bytes": 6777587,
+      "sha256": "9de5dc0f215ffab074dc034a69c0741608d1b1b0c7d7139d0edb5336a7dd56da"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v001.blend",
+      "bytes": 6776414,
+      "sha256": "a54e2c66b857f9d0113e8f39698c2ca444ae3375efecc830d57ff9411abbded7"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v002_blue.blend",
+      "bytes": 6775682,
+      "sha256": "3dedc16091f0674f71ffc999c1b6459c24c9b2d1adc5ae7bfa3ebbec6c4ca72c"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v003_taller_tiers.blend",
+      "bytes": 6776626,
+      "sha256": "bfb344657ae0ae6be6f5427ee26fe4ef0478295e9339a581b2002a06fd2cf5f5"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v005_details.blend",
+      "bytes": 9039259,
+      "sha256": "570e31258d288d33818d3c865fa52ad881e1f3d9b3ee3d11f1a2bbfe9bd03e63"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v006_details.blend",
+      "bytes": 9028340,
+      "sha256": "7602e07fd71391e27a8ef3c7b8822fb313827812ebbeae74919cad5f3c6228db"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v007_details.blend",
+      "bytes": 9027357,
+      "sha256": "831ba684d962bc3b4a47f7f9c373fb21cb252f41fdcf278956d51b77b88c782a"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v008_details.blend",
+      "bytes": 9020243,
+      "sha256": "8fa77df1f691493062c91d4187ddf9bd8fb2f541b241c513f9ecc6315f67df51"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v009_details.blend",
+      "bytes": 9751749,
+      "sha256": "62c85a58d0c5bfc560fa2368409737e481ca7b0518aba07ae1278d300cf19e97"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v010_details.blend",
+      "bytes": 9751333,
+      "sha256": "ce36409225b866b806404de30af379b0951f4ad03843480284fe960983e22f23"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_in_Motion_source_v017_details.blend",
+      "bytes": 10465682,
+      "sha256": "798b06f302d1e9a1197c7df4d184a337696100505eab15e818504327bc44ae98"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_outer_jets_v014.blend",
+      "bytes": 1349697,
+      "sha256": "26efc067f87eed94c63c187df753f66fe17d34987ca13bc723ba650feaac7df8"
+    }
+  ],
+  "nativeDefinitionFiles": 165
+}
